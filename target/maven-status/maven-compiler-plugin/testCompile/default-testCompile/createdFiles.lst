@@ -1,0 +1,6 @@
+com\messerli\burren\BackendIntegrationTests_SettingsTest.class
+com\messerli\burren\BackendIntegrationTests_InvoiceTest.class
+com\messerli\burren\BackendIntegrationTests_OrderTest.class
+com\messerli\burren\BackendIntegrationTests_PersonBindTourTest.class
+com\messerli\burren\BurrenApplicationTestsTest.class
+com\messerli\burren\UserServiceTest.class
